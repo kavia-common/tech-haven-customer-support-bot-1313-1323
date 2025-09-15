@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/tech-haven-customer-support-bot-1313-1323/tech_haven_frontend"
+}

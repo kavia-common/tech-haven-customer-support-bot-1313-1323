@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/tech-haven-customer-support-bot-1313-1323/tech_haven_frontend"
+}
